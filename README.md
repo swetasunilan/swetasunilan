@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Sweta!
+✈️ From Aircraft Maintenance Engineering → 📊 Data Analytics<br/>
 
-<!--
-**swetasunilan/swetasunilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me<br/>
+I'm a BSc AME graduate with experience as:<br/>
+📦 Ops Team Leader at FA<br/>
+🏢 CAP Associate at Amazon <br/>
 
-Here are some ideas to get you started:
+Now I’m transitioning into Data Analytics, building projects and sharpening my analytical skill set.<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ What I’m Working With<br/>
+SQL • Excel • [Tableau](https://public.tableau.com/app/profile/sweta.sunilan/vizzes)<br/>
+Learning: Python, Power BI<br/>
+
+
