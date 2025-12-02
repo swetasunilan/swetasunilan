@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Sweta!
-✈️ From Aircraft Maintenance Engineering → 📊 Data Analytics<br/>
+✈️ Aircraft Maintenance Engineering → 📊 Data Analytics<br/>
 
 🚀 About Me<br/>
 I'm a BSc AME graduate with experience as:<br/>
