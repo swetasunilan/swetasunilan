@@ -4,7 +4,7 @@
 🚀 About Me<br/>
 I'm a BSc AME graduate with experience as:<br/>
 📦 Ops Team Leader at FA<br/>
-🏢 CAP Associate at Amazon <br/>
+🏢 SDS CAP Associate at Amazon <br/>
 
 Now I’m transitioning into Data Analytics, building projects and sharpening my analytical skill set.<br/>
 
